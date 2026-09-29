@@ -23,43 +23,24 @@ Depuis septembre 2026, je suis en 1re année d'apprentissage **CFC informaticien
 2026 ─ ...    Apprentissage CFC informaticien au GIT
 ```
 
-## Mes 5 projets
+## Mes projets
 
-Pour chaque projet, j'ai écrit un rapport avec les étapes, les captures d'écran et les problèmes que j'ai eus. Cliquez sur une image pour l'ouvrir.
+Tous mes rapports sont rangés dans mon portfolio : **[Projet-cfc-informaticien](https://github.com/jp-gallego/Projet-cfc-informaticien)**. Chaque rapport contient les étapes, les captures d'écran et les problèmes que j'ai eus.
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Reseau-GNS3-routage-DHCP"><img src="assets/projet-gns3.png" alt="Réseau GNS3 : deux routeurs Cisco et DHCP"></a></td>
-    <td width="50%"><a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/ESXi-vCenter"><img src="assets/projet-esxi.png" alt="ESXi et vCenter sur un vrai serveur"></a></td>
-  </tr>
-  <tr>
-    <td>Deux LAN reliés par deux routeurs Cisco 7200. Chaque routeur donne les adresses à ses PC en DHCP. J'explique aussi les pannes que j'ai eues et comment je les ai trouvées.</td>
-    <td>ESXi 8 installé sur un serveur rack HP ProLiant, une VM Windows Server 2025 avec snapshot, puis vCenter pour gérer l'hôte dans un cluster.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-5-Deploiement-image-systeme"><img src="assets/projet-image.png" alt="Déployer des postes avec une image système"></a></td>
-    <td><a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-2-Poste-multi-utilisateurs"><img src="assets/projet-multi.png" alt="Un poste partagé par plusieurs élèves"></a></td>
-  </tr>
-  <tr>
-    <td>Un poste Windows 10 de référence, généralisé avec Sysprep, capturé puis redéployé avec Clonezilla. Pour 10 postes, ça fait gagner plusieurs heures.</td>
-    <td>Un compte par élève, chacun ne voit que ses dossiers (droits NTFS), avec verrouillage de session et règles de mots de passe. J'ai tout testé compte par compte.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Installation-Windows-Ubuntu-cle-USB"><img src="assets/projet-usb.png" alt="Windows et Ubuntu avec une clé USB"></a></td>
-    <td valign="top">
-      <b>Mes autres projets de formation</b><br><br>
-      • <a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Installation-Windows-11-VMware">Windows 11 sur VMware Workstation</a><br>
-      • <a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-1-Mise-en-service-poste">Mise en service d'un poste</a><br>
-      • <a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-3-Migration-poste">Migration et réinstallation d'un poste</a><br>
-      • <a href="https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-4-Depannage-poste">Dépannage d'une carte réseau</a><br><br>
-      Tout est rangé dans <a href="https://github.com/jp-gallego/Projet-cfc-informaticien">Projet-cfc-informaticien</a>.
-    </td>
-  </tr>
-  <tr>
-    <td>Sur un vrai PC : clé bootable avec Rufus, démarrage depuis le BIOS, puis installation de Windows 11 et d'Ubuntu.</td>
-    <td></td>
-  </tr>
-</table>
+**Les 5 principaux**
+
+- **[Réseau sous GNS3 : deux routeurs Cisco et DHCP](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Reseau-GNS3-routage-DHCP)** : deux LAN reliés par deux routeurs, le DHCP sur chaque routeur et les pannes que j'ai trouvées.
+- **[ESXi et vCenter sur un vrai serveur](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/ESXi-vCenter)** : ESXi 8 sur un HP ProLiant, une VM Windows Server 2025, puis vCenter et un cluster.
+- **[Déployer des postes avec une image système](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-5-Deploiement-image-systeme)** : un poste de référence préparé avec Sysprep, capturé puis redéployé avec Clonezilla.
+- **[Un poste partagé par plusieurs élèves](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-2-Poste-multi-utilisateurs)** : un compte par élève, droits NTFS, verrouillage de session et règles de mots de passe.
+- **[Installer Windows et Ubuntu avec une clé USB](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Installation-Windows-Ubuntu-cle-USB)** : clé bootable avec Rufus, démarrage par le BIOS, puis les deux installations sur un vrai PC.
+
+**Les autres**
+
+- [Windows 11 sur VMware Workstation](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Installation-Windows-11-VMware)
+- [Mise en service d'un poste](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-1-Mise-en-service-poste)
+- [Migration et réinstallation d'un poste](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-3-Migration-poste)
+- [Dépannage d'une carte réseau](https://github.com/jp-gallego/Projet-cfc-informaticien/tree/main/Projet-4-Depannage-poste)
 
 ## Ce que j'utilise
 
