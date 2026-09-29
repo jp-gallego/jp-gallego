@@ -10,9 +10,18 @@
 
 ## Qui je suis
 
-Avant l'informatique, j'ai été monteur électricien pendant plusieurs années. Sur les chantiers, je tirais du câble CAT 6/7 et de la fibre, je raccordais les prises et les racks, puis je testais les liaisons. Pendant mon service militaire, j'étais soldat sanitaire avec une spécialisation transmission.
+Je m'appelle Jean-Pierre, j'ai 25 ans et je suis en 1re année d'apprentissage **CFC informaticien** au Geneva Institute of Technology, à Genève.
 
-Depuis septembre 2026, je suis en 1re année d'apprentissage **CFC informaticien** au Geneva Institute of Technology. Aujourd'hui, je configure ce qui passe dans les câbles que je posais avant.
+Je ne pars pas de zéro. Pendant 5 ans comme monteur électricien, j'ai tiré du câble CAT 6/7 et de la fibre optique, raccordé des prises et des racks et testé les liaisons réseau sur les chantiers. Au service militaire, j'étais soldat sanitaire avec une spécialisation transmission : j'utilisais les systèmes de communication et je dépannais le matériel numérique.
+
+Depuis la rentrée, j'ai monté un réseau Cisco sous GNS3 avec du DHCP, installé ESXi et vCenter sur un vrai serveur rack, déployé des postes à partir d'une image système (Sysprep, Clonezilla) et sécurisé un poste partagé par plusieurs utilisateurs. Pour chaque projet, j'écris un rapport complet : les étapes, les captures, mes erreurs et comment je les ai corrigées.
+
+**Ce que j'apporte à une équipe**
+
+- **Le terrain** : je sais à quoi ressemble une baie, un rack ou une liaison qui ne passe pas.
+- **Des bases en systèmes et réseau** : Windows, Ubuntu, virtualisation, routage et DHCP, que je pratique chaque semaine.
+- **De la méthode** : je documente tout, étape par étape, pour que quelqu'un d'autre puisse refaire.
+- **Le sens du service** : 5 ans de contact avec les clients et un respect strict des règles de sécurité.
 
 **Je cherche un stage en systèmes, réseaux et infrastructure, entre Lausanne et Genève.**
 
