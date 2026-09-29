@@ -1,4 +1,4 @@
-### Apprenti informaticien CFC · ancien électricien
+### Apprenti informaticien CFC 
 
 Je cherche un **stage en systèmes, réseaux et infrastructure** entre Lausanne et Genève.
 
