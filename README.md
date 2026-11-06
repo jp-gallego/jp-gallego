@@ -2,7 +2,7 @@
 
 Je cherche un **stage en systèmes, réseaux et infrastructure** entre Lausanne et Genève.
 
-[Carte de visite](https://jp-gallego.github.io) &nbsp;·&nbsp; [CV (PDF)](https://jp-gallego.github.io/cv-jean-pierre-gallego.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jean-pierre-gallego-santillan-6b4701433) &nbsp;·&nbsp; [Ajouter à mes contacts](https://jp-gallego.github.io/jean-pierre-gallego.vcf) &nbsp;·&nbsp; [jean-pierre.gallego@git.swiss](mailto:jean-pierre.gallego@git.swiss)
+[Carte de visite](https://jp-gallego.github.io) &nbsp;·&nbsp; [CV (PDF)](https://jp-gallego.github.io/CV%20Jean-Pierre%20Gallego.pdf) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jean-pierre-gallego) &nbsp;·&nbsp; [Ajouter à mes contacts](https://jp-gallego.github.io/jean-pierre-gallego.vcf) &nbsp;·&nbsp; [jean-pierre.gallego@git.swiss](mailto:jean-pierre.gallego@git.swiss)
 
 ## Profil
 
