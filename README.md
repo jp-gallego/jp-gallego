@@ -47,7 +47,7 @@ Autres projets : [Site web GIT Pen (HTML/CSS/JS)](https://github.com/jp-gallego/
 | Période | |
 | --- | --- |
 | 2026 – aujourd'hui | **Apprentissage CFC informaticien**, Geneva Institute of Technology |
-| 2021 – 2026 | **Monteur électricien** (Delay Electricité SA, Swisspro SA, Maréchaux Electricité SA) : câblage cuivre et fibre, racks, tests de liaisons, chef d'équipe |
+| 2021 – 2026 | **Monteur électricien** (Delay Electricité SA, Swisspro SR SA, Maréchaux Electricité SA) : câblage cuivre et fibre, racks, tests de liaisons, chef d'équipe |
 | 2025 | **Service militaire**, soldat sanitaire, spécialisation transmission |
 | 2017 – 2020 | **CFC d'électricien de montage**, EPSIC Lausanne (apprentissage chez Km-Duc puis Ciel Electricité SA) |
 
